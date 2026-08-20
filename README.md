@@ -7,6 +7,17 @@ SQL analysis of Medicaid and CHIP mental health and substance use disorder servi
 This project uses SQL to analyze national Medicaid and CHIP mental health (MH) and substance use disorder (SUD) service utilization from 2020 through 2022.
 The analysis examines overall utilization trends and differences across demographic and eligibility subgroups, including age, eligibility category, race and ethnicity, primary language, sex or gender identity, and urban/rural residence.
 
+
+## Project Snapshot
+- **Study period:** 2020–2022
+- **Population:** 51.5 million Medicaid and CHIP enrollees in 2022
+- **Geographic scope:** National
+- **Focus:** Mental health (MH) and substance use disorder (SUD) service utilization
+- **Population characteristics analyzed:** Age, eligibility, race/ethnicity, primary language, sex/gender, and urban/rural residence
+- **Analysis:** Utilization trends, subgroup comparisons, and population rankings
+- **Tools:** SQL, SQLite, and DBeaver
+
+- 
 ## Research Questions
 1. How did overall Mental Health and Substance Use Disorder service utilization change from 2020 to 2022?
 2. Which population groups had the highest MH service utilization in 2022?
