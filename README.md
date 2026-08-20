@@ -68,6 +68,14 @@ These findings are descriptive and should not be interpreted as evidence that de
 - `medicaid_mh_sud_analysis.sql` — SQL queries used for data exploration, trend analysis, subgroup comparisons, and ranking.
 - `README.md` — Project overview, methods, and key findings.
 
+
+## Data Visualization
+
+### Overall Utilization Trends
+
+
+*Figure 1. National Medicaid and CHIP mental health and substance use disorder service utilization percentages, 2020–2022.*
+
 ## Next Steps
 
 Future extensions could include data visualization, additional trend measures, and state-level analyses if geographic detail is available.
