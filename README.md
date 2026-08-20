@@ -10,6 +10,7 @@ The analysis examines overall utilization trends and differences across demograp
 
 ## Project Snapshot
 - **Study period:** 2020–2022
+- *Dataset size:** 217 records
 - **Population:** 51.5 million Medicaid and CHIP enrollees in 2022
 - **Geographic scope:** National
 - **Focus:** Mental health (MH) and substance use disorder (SUD) service utilization
